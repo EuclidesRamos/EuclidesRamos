@@ -5,7 +5,6 @@
 I'm Euclides Ramos, from Paraíba - Brazil.<br>
 Student of Computer Science at Federal University of Campina Grande.<br>
 Passionate and fascinating for Front-end development ❤❤<br>
-Web System Developer at [Incodde](https://www.incodde.com/)
 
 In love with Python and its incredible universe 😍😍
 
