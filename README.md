@@ -6,5 +6,3 @@ I'm Euclides Ramos, from Paraíba - Brazil.<br>
 Bachelor of Computer Science at Federal University of Campina Grande.<br>
 Software Engineer<br>
 Passionate and fascinating for Front-end development ❤❤<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EuclidesRamos&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
